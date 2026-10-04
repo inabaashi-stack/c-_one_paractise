@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\bin\Debug\ASINGMENT 2 C#.exe.config
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\bin\Debug\ASINGMENT 2 C#.exe
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\bin\Debug\ASINGMENT 2 C#.pdb
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\obj\Debug\ASINGMENT 2 C#.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\obj\Debug\ASINGMENT_2_C_.Form1.resources
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\obj\Debug\ASINGMENT_2_C_.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\obj\Debug\ASINGMENT 2 C#.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\obj\Debug\ASINGMENT 2 C#.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\obj\Debug\ASINGMENT 2 C#.exe
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\obj\Debug\ASINGMENT 2 C#.pdb
+C:\Users\pc\OneDrive\Desktop\c#\ASINGMENT 2 C#\ASINGMENT 2 C#\obj\Debug\ASINGMENT 2 C#.exe.config

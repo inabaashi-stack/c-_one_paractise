@@ -1,0 +1,10 @@
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\bin\Debug\ASSIGNMENT 1.exe.config
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\bin\Debug\ASSIGNMENT 1.exe
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\bin\Debug\ASSIGNMENT 1.pdb
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\obj\Debug\ASSIGNMENT 1.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\obj\Debug\ASSIGNMENT_1.Form1.resources
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\obj\Debug\ASSIGNMENT_1.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\obj\Debug\ASSIGNMENT 1.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\obj\Debug\ASSIGNMENT 1.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\obj\Debug\ASSIGNMENT 1.exe
+C:\Users\pc\OneDrive\Desktop\c#\ASSIGNMENT 1\ASSIGNMENT 1\obj\Debug\ASSIGNMENT 1.pdb
